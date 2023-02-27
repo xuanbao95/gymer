@@ -46,11 +46,13 @@
 
   .photo-gymer {
     position: absolute;
-    right: -25%;
-    top: 15%;
-    width: 62%;
+    right: 0;
+    top: 41%;
+    width: 36%;
+    overflow: hidden;
+    height: 22.6rem;
     img {
-      width: 62%;
+      width: 100%;
     }
   }
 }
