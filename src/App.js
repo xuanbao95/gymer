@@ -1,11 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
-import HeaderPage from './Pages/HeaderPages/HeaderPage';
+import logo from "./logo.svg";
+import "./App.css";
+import HeaderPage from "./pages/HeaderPages/HeaderPage";
+import SliderPage from "./pages/SliderPage/SliderPage";
 
 function App() {
   return (
     <div>
       <HeaderPage />
+      <SliderPage />
     </div>
   );
 }
