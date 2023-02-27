@@ -8,8 +8,8 @@ import Carousel from "./Pages/Carousel/Carousel";
 function App() {
   return (
     <div>
-      {/* <HeaderPage />
-      <SliderPage /> */}
+      <HeaderPage />
+      <SliderPage />
       <Carousel />
     </div>
   );
