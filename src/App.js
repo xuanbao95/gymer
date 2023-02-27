@@ -1,5 +1,5 @@
-import logo from "./logo.svg";
 import "./App.css";
+
 import HeaderPage from "./pages/HeaderPages/HeaderPage";
 import SliderPage from "./pages/SliderPage/SliderPage";
 
