@@ -1,9 +1,9 @@
 import logo from "./logo.svg";
 import "./App.css";
-import SliderPage from "./Pages/SliderPage/SliderPage";
-
-import HeaderPage from "./Pages/HeaderPages/HeaderPage";
 import Carousel from "./Pages/Carousel/Carousel";
+import HeaderPage from "./pages/HeaderPages/HeaderPage";
+import AboutUs from "./pages/AboutUs/AboutUs";
+import SliderPage from "./pages/SliderPage/SliderPage";
 
 function App() {
   return (
@@ -11,6 +11,7 @@ function App() {
       <HeaderPage />
       <SliderPage />
       <Carousel />
+      <AboutUs />
     </div>
   );
 }
